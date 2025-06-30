@@ -26,10 +26,6 @@
 - 🐧 Tech lover & Linux explorer  
 - ⚡ Fun fact: Banging your head against the wall burns 150 calories (but I prefer solving problems instead!)
 
-    ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-islamcs&show_icons=true&theme=tokyonight" />
-</p>
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
@@ -38,3 +34,19 @@
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/u/mahmoud-islamcs/)](https://leetcode.com/u/mahmoud-islamcs/)  
 [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/7O0ODA)](https://codeforces.com/profile/7O0ODA)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:mahmoudislam.1.cs@gmail.com)](mailto:mahmoudislam.1.cs@gmail.com)  
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```txt
+Rust            12 hrs 36 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.47 %
+Markdown        10 hrs 33 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.50 %
+Python          4 hrs 12 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.16 %
+Tex             4 hrs 6 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.96 %
+Html            3 hrs 24 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.59 %
+```
+    ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-islamcs&show_icons=true&theme=tokyonight" />
+</p>
