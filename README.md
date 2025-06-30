@@ -35,19 +35,9 @@
 [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/7O0ODA)](https://codeforces.com/profile/7O0ODA)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:mahmoudislam.1.cs@gmail.com)](mailto:mahmoudislam.1.cs@gmail.com)  
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
 
 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-islamcs&show_icons=true&theme=tokyonight" />
 </p>
-## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoud-islamcs/Mahmoud-islamcs/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoud-islamcs/Mahmoud-islamcs/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahmoud-islamcs/Mahmoud-islamcs/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
