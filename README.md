@@ -24,7 +24,12 @@
 - 🛠️ Currently building strong foundations in SOLID Principles, Clean Code, and Design Patterns  
 - 🤖 Exploring Machine Learning basics  
 - 🐧 Tech lover & Linux explorer  
-- ⚡ Fun fact: Banging your head against the wall burns 150 calories (but I prefer solving problems instead!)  
+- ⚡ Fun fact: Banging your head against the wall burns 150 calories (but I prefer solving problems instead!)
+
+    ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-islamcs&show_icons=true&theme=tokyonight" />
+</p>
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
