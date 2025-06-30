@@ -15,7 +15,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
     
 </p>
-
+<br><br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 - 💻 Trainee at ICPC Minia University Community  
 - 🎯 Focused on improving my Problem Solving skills & participating in Competitive Programming  
@@ -23,7 +23,7 @@
 - 🤖 Exploring Machine Learning basics  
 - 🐧 Tech lover & Linux explorer  
 - ⚡ Fun fact: Banging your head against the wall burns 150 calories (but I prefer solving problems instead!)
-
+<br>
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
