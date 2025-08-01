@@ -7,13 +7,110 @@
  </abc>
 </h2> 
 
-<h2 align="left">🛠️ Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-</p>
-
+<h2 style="text-align: center">🛠️ Technologies and Tools I use:</h2>
+    <p style="text-align: center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+          alt="C++"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://learn.microsoft.com/en-us/dotnet/csharp/"
+        target="_blank"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+          alt="C#"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.java.com" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="Java"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+        target="_blank"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+          alt="HTML"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+        target="_blank"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+          alt="CSS"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          alt="JavaScript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+          alt="Git"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://github.com/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+          alt="GitHub"
+          width="40"
+          height="40"
+          style="background-color: white; border-radius: 50%"
+        />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+          alt="SQL"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Database" target="_blank">
+        <img
+          src="https://img.icons8.com/ios-filled/50/000000/database.png"
+          alt="Database"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img
+          src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"
+          alt="SQL Server"
+          width="40"
+          height="40"
+        />
+      </a>
+    </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <ul>
     <li><span>💻</span> Trainee at ICPC Minia University Community</li>
