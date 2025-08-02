@@ -58,9 +58,6 @@ I'm passionate about programming and technology, and currently focusing on build
   <a href="https://leetcode.com/mahmoudislamcs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/mahmoudislamcs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank" />
-  </a>
 </div>
 
 ---
