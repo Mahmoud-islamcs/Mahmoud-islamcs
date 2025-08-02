@@ -1,305 +1,84 @@
-<div align="right">
-      <img
-        src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"
-      />
-    </div>
+<h1 align="center">Hi 👋, I'm Mahmoud Islam</h1>
 
-    ###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer;OOP+%7C+DS+%7C+Algorithms+Learner;C%2B%2B+%7C+HTML+%7C+CSS+%7C+JS;Loves+Problem+Solving+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
-    <h1 align="center">I'm Mahmoud Islam</h1>
+---
 
-    ###
+## 👨‍💻 About Me
 
-    <h3 align="center">
-      FCI Student @ Minia University | Interest in Machine Learning & Data
-      Analysis
-    </h3>
+I'm a second-year Computer Science student at Minia University.  
+I'm passionate about programming and technology, and currently focusing on building a strong foundation in both theoretical and practical skills.
 
-    ###
-    <a href="https://github.com/3mmar3bdalkber?tab=repositories"
-      ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&color=00AF11&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile;you+can++check+my+repositories;Just+click+on..."
-        alt="maro identifier"
-    /></a>
+### 💻 Languages & Tools I Use:
+- **Programming Languages:** C++, HTML, CSS, JavaScript  
+- **Basics of:** C#, SQL, Databases  
+- **Tools:** Git, GitHub, SQL Server, Visual Studio, VS Code
 
-    ###
+### 📚 Currently Learning:
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms  
+- SOLID Principles & Design Patterns  
 
-    <h2 align="left">About me</h2>
+### 🧠 Areas of Interest:
+- Competitive Programming  
+- Problem Solving  
+- Machine Learning  
+- Data Analysis & Data Science  
 
-    ###
+### 🛠️ Projects:
+- Built 4 individual OOP-based C++ projects to apply core programming concepts  
+- Currently working on front-end web projects using HTML, CSS, and JavaScript  
 
-    <p align="left">
-      I'm a second-year Computer Science student at Minia University. <br />
-      I'm passionate about programming and technology, and currently focusing on
-      building a strong foundation in both theoretical and practical skills.<br /><br />
+### 🎯 Goals:
+- Improve my problem-solving and competitive programming skills  
+- Enhance my English proficiency  
+- Compete in ECPC and qualify for ACPC  
 
-      ### Currently Learning:<br />
-      - Object-Oriented Programming (OOP) <br />
-      - Data Structures & Algorithms <br />
-      - SOLID Principles & Design Patterns <br /><br />
+---
 
-      ### Areas of Interest:<br />
-      - Competitive Programming <br />
-      - Problem Solving <br />
-      - Machine Learning <br />
-      - Data Analysis & Data Science <br /><br />
+## 📊 GitHub Stats
 
-      ### Projects:<br />
-      - Built 4 individual OOP-based C++ projects to apply core programming
-      concepts <br />
-      - Currently working on front-end web projects using HTML, CSS, and
-      JavaScript <br /><br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&theme=cobalt2" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=dracula&hide_border=false&border_radius=5" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud-islamcs&theme=dracula&margin-w=8&margin-h=8" height="180" />
+</div>
 
-      ### Goals:<br />
-      - Improve my problem-solving and competitive programming skills <br />
-      - Enhance my English proficiency <br />
-      - Compete in ECPC and qualify for ACPC <br /><br />
-    </p>
+---
 
-    ###
+## 🌐 Problem Solving Platforms
 
-    <h2 style="text-align: center">Technologies and Tools I use</h2>
+<div align="left">
+  <a href="https://codeforces.com/profile/Ammar_FCI_Leader" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/mahmoudislamcs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/mahmoudislamcs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank" />
+  </a>
+</div>
 
-    <p style="text-align: center">
-      <a href="https://isocpp.org/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          alt="C++"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://learn.microsoft.com/en-us/dotnet/csharp/"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-          alt="C#"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.java.com" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="Java"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-          alt="HTML"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-          alt="CSS"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="JavaScript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-          alt="Git"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://github.com/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-          alt="GitHub"
-          width="40"
-          height="40"
-          style="background-color: white; border-radius: 50%"
-        />
-      </a>
-      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-          alt="SQL"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://en.wikipedia.org/wiki/Database" target="_blank">
-        <img
-          src="https://img.icons8.com/ios-filled/50/000000/database.png"
-          alt="Database"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img
-          src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"
-          alt="SQL Server"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
+---
 
-    ###
+## 📬 Contact With Me
 
-    <h2 align="left">GitHub Stats</h2>
+<div align="left">
+  <a href="mailto:mahmoudislam.1.cs@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+  </a>
+  <a href="https://t.me/MahmoudIslamCS" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/201208486015" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="WhatsApp" />
+  </a>
+</div>
 
-    ###
+---
 
-    <div align="center">
-      <div
-        style="
-          display: flex;
-          justify-content: center;
-          gap: 20px;
-          flex-wrap: wrap;
-        "
-      >
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-          width="400"
-          height="200"
-          alt="GitHub Stats"
-        />
-
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&langs_count=6&theme=cobalt2"
-          width="400"
-          height="200"
-          alt="Top Languages"
-        />
-      </div>
-
-      <br />
-
-      <div
-        style="
-          display: flex;
-          justify-content: center;
-          gap: 20px;
-          flex-wrap: wrap;
-        "
-      >
-        <img
-          src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=dracula&hide_border=false&border_radius=5"
-          width="400"
-          height="200"
-          alt="GitHub Streak"
-        />
-        />
-      </div>
-      <h2 align="left">Profile Summary Card</h2>
-      <p align="center">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-islamcs&theme=tokyonight"
-        />
-      </p>
-    </div>
-
-    ###
-    <h2 align="left">Problem Solving Platforms</h2>
-
-    <div align="left">
-      <a href="https://codeforces.com/profile/7O0ODA" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
-          width="52"
-          height="40"
-          alt="Codeforces"
-        />
-      </a>
-
-      <a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-          width="52"
-          height="40"
-          alt="LeetCode"
-        />
-      </a>
-    </div>
-
-    <h2 align="left">Social Media</h2>
-
-    ###
-
-    <div align="left">
-      <a
-        href="https://www.linkedin.com/in/mahmoud-islam-543534353/"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-          width="52"
-          height="40"
-          alt="linkedin logo"
-        />
-      </a>
-      <a href="https://www.facebook.com/mahmoud.islam.181327" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-          width="52"
-          height="40"
-          alt="facebook logo"
-        />
-      </a>
-    </div>
-
-    ###
-
-    <h2 align="left">Contact with me</h2>
-
-    ###
-
-    <div align="left">
-      <a href="https://wa.me/201033572884" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-          width="52"
-          height="40"
-          alt="whatsapp logo"
-        />
-      </a>
-      <a href="mailto:mahmoudislam.1.cs@gmail.com">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-          width="52"
-          height="40"
-          alt="gmail logo"
-        />
-      </a>
-      <a href="https://t.me/i7hoOoDa" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-          width="52"
-          height="40"
-          alt="telegram logo"
-        />
-      </a>
-    </div>
-
-    ### _Thank you and Feel free to explore my projects!_
+> ✨ Always learning. Always growing. Always coding.
