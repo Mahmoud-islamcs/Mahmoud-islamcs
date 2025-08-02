@@ -12,8 +12,8 @@
 
 ## About Me
 
-####	 I'm a second-year Computer Science student at Minia University.  
-####	 I'm passionate about programming and technology, and currently focusing on building a strong foundation in both theoretical and practical skills.
+###	 I'm a second-year Computer Science student at Minia University.  
+###	 I'm passionate about programming and technology, and currently focusing on building a strong foundation in both theoretical and practical skills.
 
 ### Currently Learning:
 - Object-Oriented Programming (OOP)
