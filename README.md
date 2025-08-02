@@ -124,4 +124,4 @@
   </a>
 </div>
 
-### *Thank you and Feel free to explore my projects!*
+###  Quote of the Day: > "Code never lies, comments sometimes do."
