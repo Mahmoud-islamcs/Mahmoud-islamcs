@@ -1,13 +1,65 @@
-<h2 align="center">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Mahmoud Islam, FCI Student @ Minia University 🎓<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<div align="right">
+      <img
+        src="https://visitor-badge.laobi.icu/badge?page_id=3mmar3bdalkber.3mmar3bdalkber&left_color=coral&right_color=brown&left_text=visitors"
+      />
+    </div>
 
-<h2 style="text-align: center">🛠️ Technologies and Tools I use:</h2>
+    ###
+
+    <h1 align="center">I'm Mahmoud Islam</h1>
+
+    ###
+
+    <h3 align="center">
+      FCI Student @ Minia University | Interest in Machine Learning & Data
+      Analysis
+    </h3>
+
+    ###
+    <a href="https://github.com/3mmar3bdalkber?tab=repositories"
+      ><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&color=00AF11&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile;you+can++check+my+repositories;Just+click+on..."
+        alt="maro identifier"
+    /></a>
+
+    ###
+
+    <h2 align="left">About me</h2>
+
+    ###
+
+    <p align="left">
+      I'm a second-year Computer Science student at Minia University. <br />
+      I'm passionate about programming and technology, and currently focusing on
+      building a strong foundation in both theoretical and practical skills.<br /><br />
+
+      ### Currently Learning:<br />
+      - Object-Oriented Programming (OOP) <br />
+      - Data Structures & Algorithms <br />
+      - SOLID Principles & Design Patterns <br /><br />
+
+      ### Areas of Interest:<br />
+      - Competitive Programming <br />
+      - Problem Solving <br />
+      - Machine Learning <br />
+      - Data Analysis & Data Science <br /><br />
+
+      ### Projects:<br />
+      - Built 4 individual OOP-based C++ projects to apply core programming
+      concepts <br />
+      - Currently working on front-end web projects using HTML, CSS, and
+      JavaScript <br /><br />
+
+      ### Goals:<br />
+      - Improve my problem-solving and competitive programming skills <br />
+      - Enhance my English proficiency <br />
+      - Compete in ECPC and qualify for ACPC <br /><br />
+    </p>
+
+    ###
+
+    <h2 style="text-align: center">Technologies and Tools I use</h2>
+
     <p style="text-align: center">
       <a href="https://isocpp.org/" target="_blank">
         <img
@@ -111,26 +163,143 @@
         />
       </a>
     </p>
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-<ul>
-    <li><span>💻</span> Trainee at ICPC Minia University Community</li>
-    <li><span>🎯</span> Focused on improving my Problem Solving skills & participating in Competitive Programming</li>
-    <li><span>🛠️</span> Currently building strong foundations in SOLID Principles, Clean Code, and Design Patterns</li>
-    <li><span>🤖</span> Exploring Machine Learning basics</li>
-    <li><span>🐧</span> Tech lover & Linux explorer</li>
-    <li><span>⚡</span> Fun fact: Banging your head against the wall burns 150 calories (but I prefer solving problems instead!)</li>
-</ul>
 
-<h2 align="left">❤️ Let's get connected:</h2>
-<ul>
-    <li><a href="https://www.linkedin.com/in/mahmoud-islam-543534353"><img src="https://img.shields.io/badge/-MahmoudIslam-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a></li>
-    <li><a href="https://t.me/i7hoOoDa"><img src="https://img.shields.io/badge/-@i7hoOoDa-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a></li>
-    <li><a href="https://leetcode.com/u/mahmoud-islamcs/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a></li>
-    <li><a href="https://codeforces.com/profile/7O0ODA"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a></li>
-    <li><a href="mailto:mahmoudislam.1.cs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a></li>
-</ul>
+    ###
 
-📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-islamcs&show_icons=true&theme=tokyonight" />
-</p>
+    <h2 align="left">GitHub Stats</h2>
+
+    ###
+
+    <div align="center">
+      <div
+        style="
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          flex-wrap: wrap;
+        "
+      >
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+          width="400"
+          height="200"
+          alt="GitHub Stats"
+        />
+
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&langs_count=6&theme=cobalt2"
+          width="400"
+          height="200"
+          alt="Top Languages"
+        />
+      </div>
+
+      <br />
+
+      <div
+        style="
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          flex-wrap: wrap;
+        "
+      >
+        <img
+          src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=dracula&hide_border=false&border_radius=5"
+          width="400"
+          height="200"
+          alt="GitHub Streak"
+        />
+        />
+      </div>
+      <h2 align="left">Profile Summary Card</h2>
+      <p align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-islamcs&theme=tokyonight"
+        />
+      </p>
+    </div>
+
+    ###
+    <h2 align="left">Problem Solving Platforms</h2>
+
+    <div align="left">
+      <a href="https://codeforces.com/profile/7O0ODA" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg"
+          width="52"
+          height="40"
+          alt="Codeforces"
+        />
+      </a>
+
+      <a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+          width="52"
+          height="40"
+          alt="LeetCode"
+        />
+      </a>
+    </div>
+
+    <h2 align="left">Social Media</h2>
+
+    ###
+
+    <div align="left">
+      <a
+        href="https://www.linkedin.com/in/mahmoud-islam-543534353/"
+        target="_blank"
+      >
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+          width="52"
+          height="40"
+          alt="linkedin logo"
+        />
+      </a>
+      <a href="https://www.facebook.com/mahmoud.islam.181327" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+          width="52"
+          height="40"
+          alt="facebook logo"
+        />
+      </a>
+    </div>
+
+    ###
+
+    <h2 align="left">Contact with me</h2>
+
+    ###
+
+    <div align="left">
+      <a href="https://wa.me/201033572884" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+          width="52"
+          height="40"
+          alt="whatsapp logo"
+        />
+      </a>
+      <a href="mailto:mahmoudislam.1.cs@gmail.com">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+          width="52"
+          height="40"
+          alt="gmail logo"
+        />
+      </a>
+      <a href="https://t.me/i7hoOoDa" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+          width="52"
+          height="40"
+          alt="telegram logo"
+        />
+      </a>
+    </div>
+
+    ### _Thank you and Feel free to explore my projects!_
