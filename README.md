@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" width="400" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&langs_count=6&theme=cobalt2" width="400" height="200" alt="Top Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=dracula&hide_border=false&border_radius=5" width="400" height="200" alt="GitHub Streak" />
+  
 </div>
 
 ## Profile Summary Card
