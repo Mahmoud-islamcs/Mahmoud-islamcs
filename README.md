@@ -84,9 +84,7 @@
 
 ## Profile Summary Card
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-islamcs&theme=tokyonight" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-islamcs&bg_color=303030&color=ffffff&line=3dff9b&point=00e682&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Problem Solving Platforms
 
