@@ -6,9 +6,8 @@
 
 ### FCI Student @ Minia University | Interest in Machine Learning & Data Analysis
 
-<a href="https://github.com/Mahmoud-islamcs?tab=repositories">
-  <a href="[https://github.com/3mmar3bdalkber?tab=repositories](https://github.com/Mahmoud-islamcs?tab=repositories)">
-</a>
+<a href="https://github.com/Mahmoud-islamcs?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1000&pause=700&color=00AF11&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub+profile;you+can++check+my+repositories;Just+click+on..." alt="maro identifier" /></a>
+
 
 ## About Me
 
