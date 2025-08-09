@@ -75,9 +75,15 @@
 ## GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-islamcs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Most Used Languages" />
+
+  <img src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="GitHub Streak" />
+
 </div>
+
 
 ## Profile Summary Card
 
