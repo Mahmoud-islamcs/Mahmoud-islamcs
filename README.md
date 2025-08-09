@@ -89,10 +89,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-islamcs&bg_color=303030&color=ffffff&line=3dff9b&point=00e682&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/Mahmoud-islamcs/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/Mahmoud-islamcs/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mahmoud-islamcs&column=10&theme=gruvbox&no-frame=true"/>
-</a>
+
 
 ## Problem Solving Platforms
 
