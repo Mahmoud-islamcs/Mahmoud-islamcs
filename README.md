@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahmoud-islamcs&left_color=coral&right_color=brown&left_text=visitors" />
+  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 </div>
 
 # I'm Mahmoud Islam
