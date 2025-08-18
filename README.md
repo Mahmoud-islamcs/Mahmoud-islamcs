@@ -51,9 +51,7 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="[https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png](https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg)" alt="Flask" width="50" height="50" />
-  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
   </a>
