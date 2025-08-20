@@ -1,9 +1,4 @@
 
-
-<div align="right">
-  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-</div>
-
 # I'm Mahmoud Islam
 
 ### FCI Student @ Minia University | Interest in Machine Learning & Data Analysis
