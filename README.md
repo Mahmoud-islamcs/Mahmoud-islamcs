@@ -23,8 +23,8 @@
 - Data Analysis & Data Science
 
 ### Projects:
-- Built 4 individual OOP-based C++ projects to apply core programming concepts
-- Currently working on front-end web projects using HTML, CSS, and JavaScript
+- Built 6 individual OOP-based C++ projects applying core programming concepts and utilizing STL
+- Developed a Full Stack To-Do List Website during summer training using Flask (Back-End) with HTML, CSS, and JavaScript (Front-End)
 
 ### Goals:
 - Improve my problem-solving and competitive programming skills
