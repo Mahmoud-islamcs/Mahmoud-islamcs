@@ -96,8 +96,8 @@
 ## Problem Solving Platforms
 
 <div align="left">
-  <a href="https://codeforces.com/profile/7O0ODA" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fcode-forces-3521352_2944796&psig=AOvVaw01eZG42irXNcd4R_ymerSO&ust=1756539198106000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiehNnAr48DFQAAAAAdAAAAABAE" width="52" height="40" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/7O0ODA" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" width="52" height="40" alt="codeforces logo"/>
   </a>
   <a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode" />
