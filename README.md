@@ -3,7 +3,7 @@
 ## Junior Data Analyst | Machine Learning Practitioner
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/YOUR_FILE_ID/view](https://drive.google.com/file/d/1YfuqkQ3Ao9w0ysNasimk1lx0pmDU_NI-/view?usp=sharing)" target="_blank">
+  <a href="[[https://drive.google.com/file/d/YOUR_FILE_ID/view](https://drive.google.com/file/d/1YfuqkQ3Ao9w0ysNasimk1lx0pmDU_NI-/view?usp=sharing)](https://drive.google.com/file/d/1YfuqkQ3Ao9w0ysNasimk1lx0pmDU_NI-/view?usp=drive_link)" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
 </p>
