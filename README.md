@@ -44,12 +44,12 @@ I strongly believe in **self-learning** and continuous improvement. I actively e
     <td><a href="https://codeforces.com/profile/mahmoud__islam" target="_blank">Codeforces</a></td>
     <td><a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank">LeetCode</a></td>
     <td><a href="https://www.kaggle.com/h0o0da" target="_blank">Kaggle</a></td>
-    <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank">DataCamp</a></td>
+    <!-- <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank">DataCamp</a></td> -->
   </tr>
   <tr align="center">
     <td><a href="https://codeforces.com/profile/mahmoud__islam" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="40"></a></td>
     <td><a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"></a></td>
     <td><a href="https://www.kaggle.com/h0o0da" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="40"></a></td>
-    <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/datacamp.svg" height="40"></a></td>
+    <!-- <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/datacamp.svg" height="40"></a></td> -->
   </tr>
 </table>
