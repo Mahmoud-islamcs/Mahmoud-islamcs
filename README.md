@@ -24,14 +24,14 @@ I strongly believe in **self-learning** and continuous improvement. I actively e
     <td><a href="https://wa.me/201033572884" target="_blank">WhatsApp</a></td>
     <td><a href="https://www.facebook.com/mahmoud.islam.181327" target="_blank">Facebook</a></td>
     <td><a href="https://t.me/i7hoOoDa" target="_blank">Telegram</a></td>
-    <td><a href="www.linkedin.com/in/mahmoud-islam-swe" target="_blank">LinkedIn</a></td>
+    <td><a href="https://www.linkedin.com/in/mahmoud-islam-analytics" target="_blank">LinkedIn</a></td>
   </tr>
   <tr align="center">
     <td><a href="mailto:mahmoudislam.1.cs@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40"></a></td>
     <td><a href="https://wa.me/201033572884" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="40"></a></td>
     <td><a href="https://www.facebook.com/mahmoud.islam.181327" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40"></a></td>
     <td><a href="https://t.me/i7hoOoDa" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="40"></a></td>
-    <td><a href="www.linkedin.com/in/mahmoud-islam-swe" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"></a></td>
+    <td><a href="https://www.linkedin.com/in/mahmoud-islam-analytics" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"></a></td>
   </tr>
 </table>
 
