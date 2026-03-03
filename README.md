@@ -1,4 +1,4 @@
-#  Hi, I'm Mahmoud Islam
+#  Hi, I'm Mahmoud Islam :)
 
 ## Junior Data Analyst | Machine Learning Practitioner
 
