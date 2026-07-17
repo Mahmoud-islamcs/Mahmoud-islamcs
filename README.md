@@ -3,16 +3,41 @@
 ## Junior Data Analyst | Machine Learning Practitioner
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1hiQragJw9B2eP68KPAtXTGb3GisBa4aT/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1LZnxGwSZgQyNyyOZ5zDUpAiAM3aVN2zt/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
 </p>
 
-I'm a student at **Faculty of Computers & Information, Minia University**.  
-I am currently focused on the **Data Analysis track**, while simultaneously studying **Machine Learning** to strengthen my analytical and predictive modeling skills.
+I'm a student at **Faculty of Computers & Information, Minia University**, pursuing my Bachelor's degree in Computer Science (2024 – 2028).  
+I am a **Data Analyst and Machine Learning Engineer** with hands-on experience in end-to-end predictive modeling, feature engineering, statistical analysis, and business-intelligence reporting.
 
 I strongly believe in **self-learning** and continuous improvement. I actively enhance my skills through hands-on practice, real-world datasets, and structured learning platforms such as **Kaggle** and **DataCamp**.
 
+
+---
+##  Technical Skills
+
+**Languages:** Python, SQL, C++, C#, Java
+
+**Data Analysis & ML:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Logistic Regression, Feature Engineering, EDA, Statistical Analysis, Hypothesis Testing, Data Cleaning, Data Pipeline Design, SMOTE, SHAP
+
+**Visualization & BI:** Matplotlib, Seaborn, Power BI, Excel (Pivot Tables, Advanced Charts, VLOOKUP)
+
+**Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, Microsoft SQL Server, VS Code
+
+**CS Fundamentals:** Data Structures & Algorithms, OOP, SOLID Principles, Clean Code, Design Patterns
+
+---
+
+##  Experience
+
+**Data Analyst Specialist Trainee** — *Digital Egypt Pioneers Initiative (DEPI)*, Remote (Nov 2025 – Present)
+- Built end-to-end analytical pipelines in Python on real-world multi-source datasets, automating data cleaning and aggregation.
+- Designed business-intelligence dashboards translating raw data into executive-ready insights for data-driven decision-making.
+
+**Machine Learning Intern** — *National Telecommunication Institute (NTI)*, Remote (Aug 2025 – Sep 2025)
+- Completed 120+ hours of intensive ML training covering preprocessing, feature engineering, model selection, and evaluation.
+- Designed and delivered a final end-to-end ML classification project.
 
 ---
 
