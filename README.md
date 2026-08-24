@@ -4,8 +4,10 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1LZnxGwSZgQyNyyOZ5zDUpAiAM3aVN2zt/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+    <img src="https://img.shields.io/badge/📄%20Resume%20%2F%20CV-View%20Professional%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117" alt="View Professional CV">
   </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud-islamcs&base=2000&color=4285F4&style=for-the-badge&label=VISITORS" alt="Profile Visitors">
 </p>
 
 I'm a student at **Faculty of Computers & Information, Minia University**, pursuing my Bachelor's degree in Computer Science (2024 – 2028).  
@@ -80,3 +82,17 @@ I strongly believe in **self-learning** and continuous improvement. I actively e
     <!-- <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank"><img src="https://cdn.simpleicons.org/datacamp" height="40"></a></td> -->
   </tr>
 </table>
+
+---
+
+## GitHub Analytics & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahmoud's GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&theme=tokyonight" alt="Most Used Languages" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
