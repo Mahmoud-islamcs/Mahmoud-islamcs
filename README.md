@@ -53,12 +53,12 @@ I strongly believe in **self-learning** and continuous improvement. I actively e
     <td><a href="https://discord.com/users/1370009948255424512" target="_blank">Discord</a></td>
   </tr>
   <tr align="center">
-    <td><a href="mailto:mahmoudislam.1.cs@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40"></a></td>
-    <td><a href="https://wa.me/201033572884" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" height="40"></a></td>
-    <td><a href="https://www.facebook.com/mahmoud.islam.181327" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40"></a></td>
-    <td><a href="https://t.me/i7hoOoDa" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="40"></a></td>
-    <td><a href="https://www.linkedin.com/in/mahmoud-islam-analytics" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"></a></td>
-    <td><a href="https://discord.com/users/1370009948255424512" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="40"></a></td>
+    <td><a href="mailto:mahmoudislam.1.cs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" height="40"></a></td>
+    <td><a href="https://wa.me/201033572884" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp" height="40"></a></td>
+    <td><a href="https://www.facebook.com/mahmoud.islam.181327" target="_blank"><img src="https://cdn.simpleicons.org/facebook" height="40"></a></td>
+    <td><a href="https://t.me/i7hoOoDa" target="_blank"><img src="https://cdn.simpleicons.org/telegram" height="40"></a></td>
+    <td><a href="https://www.linkedin.com/in/mahmoud-islam-analytics" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"></a></td>
+    <td><a href="https://discord.com/users/1370009948255424512" target="_blank"><img src="https://cdn.simpleicons.org/discord" height="40"></a></td>
   </tr>
 </table>
 
@@ -74,9 +74,9 @@ I strongly believe in **self-learning** and continuous improvement. I actively e
     <!-- <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank">DataCamp</a></td> -->
   </tr>
   <tr align="center">
-    <td><a href="https://codeforces.com/profile/mahmoud__islam" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="40"></a></td>
-    <td><a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"></a></td>
-    <td><a href="https://www.kaggle.com/h0o0da" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="40"></a></td>
-    <!-- <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/datacamp.svg" height="40"></a></td> -->
+    <td><a href="https://codeforces.com/profile/mahmoud__islam" target="_blank"><img src="https://cdn.simpleicons.org/codeforces" height="40"></a></td>
+    <td><a href="https://leetcode.com/u/mahmoud-islamcs/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" height="40"></a></td>
+    <td><a href="https://www.kaggle.com/h0o0da" target="_blank"><img src="https://cdn.simpleicons.org/kaggle" height="40"></a></td>
+    <!-- <td><a href="https://www.datacamp.com/portfolio/mahmoudislam" target="_blank"><img src="https://cdn.simpleicons.org/datacamp" height="40"></a></td> -->
   </tr>
 </table>
