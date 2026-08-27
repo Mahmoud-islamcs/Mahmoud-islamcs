@@ -88,11 +88,6 @@ I strongly believe in **self-learning** and continuous improvement. I actively e
 ## GitHub Analytics & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahmoud-islamcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahmoud's GitHub Stats" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&theme=tokyonight" alt="Most Used Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahmoud-islamcs&layout=compact&theme=tokyonight" alt="Most Used Languages" height="210" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahmoud-islamcs&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
